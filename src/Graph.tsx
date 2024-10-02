@@ -20,7 +20,7 @@ interface PerspectiveViewerElement {
 
 /**
  * React component that renders Perspective based on data
- * parsed from its parent through data property.
+ * parsed from its parent through dataproperty.
  */
 class Graph extends Component<IProps, {}> {
   // Perspective table
